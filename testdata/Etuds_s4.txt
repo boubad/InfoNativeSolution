@@ -1,0 +1,48 @@
+GROUPE;DOSSIER;LASTNAME;FIRSTNAME;SEXE;BIRTHYEAR;SERIEBAC;OPTIONBAC;DEPARTEMENT;LYCEE;VILLE;ETUDESSUPERIEURES;APB;MENTIONBAC;EMAIL
+A;21408178;CHETTAB;Moncef;M;96;STI;ITE;76;Blaise Pascal;Rouen;GTE1 - Rouen;131;AB;moncef.chettab@etu.univ-rouen.fr
+A;21502031;COUETTE;Morgan;M;97;STI;EE;76;Raymond Queneau;Yvetot;;66;AB;morgan.couette@etu.univ-rouen.fr
+A;21506644;FIHUE;Adrien;M;97;S;M;76;Jehan Ango;Dieppe;;193;AB;adrien.fihue@etu.univ-rouen.fr
+A;21507252;FOURE-VATIN;Rémi;M;97;STI;EE;80;Edouard Branly;Amiens;;29;TB;remi.foure-vatin@etu.univ-rouen.fr
+A;21511231;MARIN;Jean;M;97;S;PC;76;De La Cote D'Albatre;Saint-Valery-en-Caux;;114;;jean.marin@etu.univ-rouen.fr
+A;21400192;POULLAIN;Blaise;M;97;STI;;;;;MP1 - Evreux;79;;blaise.poullain@etu.univ-rouen.fr
+A;21506104;ROUSSEL;Louison;M;97;S;PC;76;Thomas Corneille;Barentin;;170;B;louison.roussel@etu.univ-rouen.fr
+A;21408489;SIDIBE;Bakary;M;98;STI;SIN;76;;;MP1 -  Rouen;;B;bakary.sidibe@etu.univ-rouen.fr
+A;21503520;SPYCHALA;Antoine;M;97;S;PC;76;Jehan Ango;Dieppe;;112;B;antoine.spychala@etu.univ-rouen.fr
+A;21401747;TURION;Antonin;M;96;STI;EE;76;La Chataigneraie;Le Mesnil Esnard;GTE1 - Rouen;106;AB;antonin.turion@etu.univ-rouen.fr
+A;21503584;VALLEE;Clément;M;95;S;M;76;Val De Seine;Le Grand-Quevilly;;231;B;clement.vallee@etu.univ-rouen.fr
+A;21406804;VELMIR;Steffie;F;96;STI;EE;971;Raoul Georges Nicolo;Basse terre;GTE1 - Rouen;39;AB;steffie.velmir@etu.univ-rouen.fr
+B;21503398;ARRICHIELLO;Paul;M;97;S;SVT;27;Andre Maurois;Elbeuf;;80;;paul.arrichiello@etu.univ-rouen.fr
+B;21408243;CHAUMETTE;Alexandre;M;96;STI;EE;974;Roland Garros;Le Tampon;GTE1 - Rouen;60;;alexandre.chaumette@etu.univ-rouen.fr
+B;21403146;JEAN-BAPTISTE SIMONNE;Joey;M;96;STI;EE;27;Jean Moulin;Les Andelys;GTE1 - Rouen;42;B;joey.jean-baptiste-simonne@etu.univ-rouen.fr
+B;21503906;JEANNE;Yannick;M;95;STI;EE;77;De La Mare Carree;Moissy-Cramayel;;64;AB;yannick.jeanne@etu.univ-rouen.fr
+B;21505001;MALANDAIN;Alexandre;M;97;S;PC;76;Blaise Pascal;Rouen;;54;AB;alexandre.malandain@etu.univ-rouen.fr
+B;21506637;MOUQUET;Paul;M;96;STI;EE;76;Raymond Queneau;Yvetot;;48;B;paul.mouquet@etu.univ-rouen.fr
+B;21315046;SIMON;Olivier;M;95;S;SVT;76;;;L1 Maths - Rouen;;;olivier.simon1@etu.univ-rouen.fr
+B;21502647;TEFFAUT;Edouard;M;96;STI;ITE;76;Anguier;Eu;;14;B;edouard.teffaut@etu.univ-rouen.fr
+C;21504773;ARMAND;Alexis;M;97;STI;EE;27;Georges Dumezil;Vernon;;27;B;alexis.armand@etu.univ-rouen.fr
+C;21501856;CORBLIN;Romain;M;97;S;M;76;Guy De Maupassant;Fécamp;;225;;romain.corblin@etu.univ-rouen.fr
+C;21502856;GUERPIN-COATANROCH;Ronan;M;97;STI;EE;27;Jacques Prevert;Pont-Audemer;;28;B;ronan.guerpin-coatanroch@etu.univ-rouen.fr
+C;21508499;LEMOINE;Antoine;M;97;STI;SIN;76;Augustin Fresnel;Bernay;;;AB;antoine.lemoine@etu.univ-rouen.fr
+C;21502938;LEROY;Lea;F;97;S;ISN;27;Georges Dumezil;Vernon;;;;lea.leroy1@etu.univ-rouen.fr
+C;21405095;MARSAUDON;Paul;M;96;S;M;27;Louise Michel;Gisors;GTE1 - Rouen;190;;paul.marsaudon@etu.univ-rouen.fr
+C;21408419;PAILLETTE;Pierre;M;96;S;SVT;76;;;L1 - Rouen;;;pierre.paillette@etu.univ-rouen.fr
+C;21406717;VERDIN;Kataleen;F;95;STAV;TPA;76;Agricole;Yvetot;GTE1 - Rouen;110;;kataleen.verdin@etu.univ-rouen.fr
+D;21512813;BILLERET;Guillaume;M;94;S;PC;76;;;;;;guillaume.billeret@etu.univ-rouen.fr
+D;21411685;CHERGUI;Alexandre;M;93;S;M;76;;;L2 Rouen;104;;alexandre.chergui@etu.univ-rouen.fr
+D;21502353;CHIROIS;Baptiste;M;97;S;PC;76;La Providence;Fécamp;;144;AB;baptiste.chirois@etu.univ-rouen.fr
+D;21607691;DAUBOIN;Hubert;M;96;S;;;;;MPSI2 - Amiens;;;hubert.dauboin@etu.univ-rouen.fr
+D;21503751;FLEURY;Julien;M;96;S;PC;76;;;INSA1 - Rouen;21;B;julien.fleury1@etu.univ-rouen.fr
+D;21608892;FRERE;Jérôme;M;96;S;;;;;CGPE2 - Rouen;;;jerome.frere@etu.univ-rouen.fr
+D;21403920;LEGENDRE;Caroline;F;96;S;;;;;CH1 - Rouen;1;;caroline.legendre@etu.univ-rouen.fr
+D;21504943;LEPETRE;Alexandre;M;96;S;PC;76;Thomas Corneille;Barentin;;191;;alexandre.lepetre@etu.univ-rouen.fr
+D;21502334;LEPRINCE;Julien-Pierre;M;97;S;M;76;De La Cote D'Albatre;Saint-Valery-en-Caux;;92;AB;julien-pierre.leprince@etu.univ-rouen.fr
+D;21502565;LEUYER;Corentin;M;97;STI;EE;76;Edouard Delamare Deboutteville;Forges-les-Eaux;;6;TB;corentin.leuyer@etu.univ-rouen.fr
+D;21501198;MELLOUK;Yassine;M;96;S;M;76;;;ESIGELEC - Rouen;186;;yassine.mellouk@etu.univ-rouen.fr
+D;21501725;PILLOY;Thibaut;M;97;S;PC;37;Balzac;Tours;;175;AB;thibaut.pilloy@etu.univ-rouen.fr
+D;21508135;SEVILLA;Julien;M;97;S;M;76;Pablo Neruda;Dieppe;;138;;julien.sevilla@etu.univ-rouen.fr
+D;21500918;SNAUWAERT;Pierre;M;97;S;PC;60;Jeanne Hachette;Beauvais;;164;AB;pierre.snauwaert@etu.univ-rouen.fr
+D;21509542;VERDURON;Matthieu;M;95;S;PC;;;;CPGE2 - Paris;;TB;matthieu.verduron@etu.univ-rouen.fr
+;;LETELLIER;Jérémy;;;;;;;;;;;jeremy.letellier@etu.univ-rouen.fr
+?;21411581;AIT DAHMANE;Tarik;M;96;S;M;76;;Rouen;PACES - Rouen;;AB;tarik.ait-dahmane@etu.univ-rouen.fr
+?;21404308;BARBET;Antonin;M;95;STI;ITE;;Remi Belleau;Nogent le Rotrou;Géo Tours + GTE1 - Rouen;76;AB;antonin.barbet@etu.univ-rouen.fr
+?;21201867;FAHLOUN;Samir;M;94;S;SVT;92;Newton-Enréa;Clichy;;;B;samir.fahloun@etu.univ-rouen.fr
