@@ -23,7 +23,7 @@ namespace info {
 		static const string_t STRING_ID = U("_id");
 		static const string_t STRING_REV = U("_rev");
 		static const string_t STRING_FIND = U("/_find");
-		static const string_t STRING_DELETED = U("/_deleted");
+		static const string_t STRING_DELETED = U("_deleted");
 		///////////////////////////////////////////////
 		task_int CouchDBManager::get_docs_count(const std::map<string_t, value> &oMap, const string_t &db /*= string_t()*/) const {
 			assert(this->is_valid());
@@ -64,10 +64,17 @@ namespace info {
 						int n = static_cast<int>(r.size());
 						return (n);
 					}).get();
-					nRet += nx;
-					offset += nx;
-					if (nx < nCount) {
+					if (nx < 1) {
+						done = true;
 						break;
+					}
+					nRet += nx;
+					if (nx < nCount) {
+						done = true;
+						break;
+					}
+					else {
+						offset += nx;
 					}
 				}// not done
 				return (nRet);
@@ -175,6 +182,7 @@ namespace info {
 					}).get();
 					if (nx < nMax) {
 						done = true;
+						break;
 					}
 					else {
 						offset += nx;

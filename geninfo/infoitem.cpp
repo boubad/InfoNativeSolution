@@ -3,9 +3,12 @@
 #include "stdafx.h"
 #include "infoitem.h"
 #include "infostrings.h"
+#include "info_rest.h"
 /////////////////////////
 namespace info {
 namespace domain {
+	////////////////////////////
+	using namespace info::persist;
 ///////////////////////////
 InfoItem::InfoItem() {
 }
@@ -45,6 +48,12 @@ void InfoItem::to_map(anymap_type &oMap) const {
 		oMap[KEY_REV] = m_rev;
 	}
 }
+string_type InfoItem::to_json(void) const {
+	anymap_type oMap{};
+	this->to_map(oMap);
+	value v = anymap_to_value(oMap);
+	return v.serialize();
+}// to_json
 void InfoItem::id(const string_type &s) {
 	m_id = trim(s);
 }

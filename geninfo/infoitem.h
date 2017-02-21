@@ -57,6 +57,7 @@ public:
 	const string_type &version(void) const {
 		return m_rev;
 	}
+	string_type to_json(void) const;
 };
 // class InfoItem
 ////////////////////////
